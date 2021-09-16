@@ -1,9 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nina</h1>
-
-[<img align='left' alt=' alescofet | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
-[<img align='left' alt=' alescofet | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
-
+<h1 align="center">Hi, I'm Nina 👩🏻‍🦰 💻</h1>
 
 
 <br/><hr>
@@ -17,9 +13,7 @@ Skills:
 Javascript · ES6 · Node · HTML · CSS · React · MongoDB · Express · Heroku · Git · GitHub · TDD.
 
 <p align="left">
-
  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
 <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
