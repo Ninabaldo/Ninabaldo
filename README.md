@@ -6,8 +6,9 @@
 ### Web developer, with a sanitary background, excited to grow in the tech industry.
 
 
-My previous experience as a healthcare professional in different fields, continues to provide me with knowledge and skills such as being very meticulous, focusing on the most insignificant details and developing a more creative and intuitive mind. I consider changes to be a great opportunity to learn and to broaden our minds.
-
+Currently, doing the seventh week of the Full Stack developer bootcamp in order to start a new professional career.
+I have carried out two projects ** with the technologies and methodologies acquired.
+My background experience, continues to provide me with knowledge and skills such as meticulousness, precision, the development of a more logical and intuitive mind, and having a good capacity for adaptation and great experience with humane treatment. 
 
 Skills:
 Javascript · ES6 · Node · HTML · CSS · React · MongoDB · Express · Heroku · Git · GitHub · TDD.
