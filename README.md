@@ -7,7 +7,7 @@
 
 
 Currently, doing the seventh week of the Full Stack developer bootcamp in order to start a new professional career.
-I have carried out two projects ** with the technologies and methodologies acquired.
+I have carried out two projects with the technologies and methodologies acquired.
 My background experience, continues to provide me with knowledge and skills such as meticulousness, precision, the development of a more logical and intuitive mind, and having a good capacity for adaptation and great experience with humane treatment. 
 
 Skills:
